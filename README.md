@@ -1,3 +1,3 @@
 # Object_model
 
-Contributed by Spidey.
+Contributed by Spidey mann.
