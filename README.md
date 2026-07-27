@@ -1,3 +1,3 @@
 # Object_model
-
-Contributed by Spidey mann.
+<hr>
+Contributed by European
